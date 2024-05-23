@@ -1,30 +1,54 @@
-# economy-front
+# Front-hotel
 
-This template should help get you started developing with Vue 3 in Vite.
+Aplicação foi desenvolvida usando Vue 3 com Vite.
 
-## Recommended IDE Setup
+## Teste
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+O teste consiste em:
+- Criar uma tela para Cadastro Simples de Hospede;
+- Criar uma tela para Listagem de Hospedes Cadastrados;
+- Criar uma tela para Edição de Hospedes Cadastrados;
+- Criar uma tela para Cadastro de Reservas Vinculando Hospedes;
+- Criar uma tela para Listagem de Reservas já Cadastradas;
+- Criar uma tela para Edição de Reservas Cadastradas.
 
-## Customize configuration
+## Para clonar o projeto
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Basta rodar o comando abaixo no seu terminal:
 
-## Project Setup
+```bash
+# Clona o projeto do remoto para o local utilizando SSH
+git clone git@github.com:joao-pasip/front-hotel.git
+```
 
-```sh
+## Siga as etapas abaixo para rodar o projeto em sua máquina
+
+1. Basta entrar no diretório do projeto com o seguinte comando:
+
+```bash
+cd front-hotel
+```
+
+2. Instale as dependências do projeto:
+
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+3. Para rodar o projeto, utilize o comando abaixo no seu terminal:
 
-```sh
+```bash
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Agradecimentos
 
-```sh
-npm run build
-```
-# front-hotel
+Gostaria desde já de agradecer pela oportunidade de participar do processo seletivo. Me esforcei para entregar o que foi pedido, dividindo em camadas e separando as responsabilidades com arquitetura de software. 
+
+Foram muitos aprendizados! Meu sentimento é de gratidão!
+
+Segue as minhas redes sociais para conexões:
+
+> João Paulo Silva Piauhy - Linkedin: [Linkedin](https://www.linkedin.com/in/joaopasip/).
+
+> João Paulo Silva Piauhy - Instagram: [Instagram](https://www.instagram.com/joaopasip/).
